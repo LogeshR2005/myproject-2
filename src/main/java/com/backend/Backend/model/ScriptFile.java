@@ -9,7 +9,6 @@ import lombok.Data;
 import java.time.Instant;
 
 @Entity
-@Data
 public class ScriptFile {
 
     @Id
@@ -77,5 +76,6 @@ public class ScriptFile {
         this.createdAt = createdAt;
     }
 }
+
 
 
