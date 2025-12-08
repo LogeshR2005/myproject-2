@@ -10,8 +10,6 @@ import java.time.Instant;
 
 @Entity
 @Table(name = "targets")
-@Data
-
 public class Target {
 
     @Id
