@@ -12,7 +12,6 @@ import java.time.Instant;
 
 
 @Entity
-@Data
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
