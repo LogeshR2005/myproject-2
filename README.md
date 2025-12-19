@@ -57,5 +57,51 @@ This project simplifies the process by providing **one‑click, automated OS har
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 📄 Reporting Output
+
+Each hardening action records:
+- Parameter name  
+- Previous value / state  
+- Current value / state  
+- Status (Success / Failed)  
+- Timestamp  
+
+This enables **audit‑ready compliance reporting**.
+
+---
+
+## 🚀 Use Cases
+
+- System administrators  
+- Security teams  
+- Educational institutions  
+- Organizations with mixed OS environments  
+
+---
+
+## 🎯 Project Outcomes
+
+- Simplifies OS hardening across platforms  
+- Reduces manual errors and misconfigurations  
+- Improves security consistency  
+- Supports safe enforcement with rollback  
+- Enhances audit readiness  
+
+---
+
+## 🔮 Future Enhancements
+
+- Web‑based dashboard  
+- Role‑based access control  
+- Cloud / SaaS deployment  
+- AI‑based security recommendations  
+
+---
+
+## 📌 License
+
+This project is developed for educational and demonstration purposes.
 
